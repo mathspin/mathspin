@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 https://mathspin.github.io/Calculadora-simples_HTML-CSS-Javascript/
 
+https://mathspin.github.io/Projeto-Urna-Eletronica/
+
 <!-- animações do final da pág  -->
 <div align="center">
   <a href="https://github.com/mathspin">

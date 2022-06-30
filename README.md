@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### 💾😃
 
 
-https://www.notion.so/matheusspintom/Portfolio-Notion-f0a0388a94874bc78644a58ad9cb47c1
+https://matheusspintom.notion.site/matheusspintom/Portfolio-Notion-f0a0388a94874bc78644a58ad9cb47c1
 
 <!--https://mathspin.github.io/Calculadora-simples_HTML-CSS-Javascript/
 

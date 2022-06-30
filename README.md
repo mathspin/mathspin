@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 ### 💾😃
 
 
-https://mathspin.github.io/Calculadora-simples_HTML-CSS-Javascript/
+https://www.notion.so/matheusspintom/Portfolio-Notion-f0a0388a94874bc78644a58ad9cb47c1#26bfb37299ae41a896aa67b570299770
 
-https://mathspin.github.io/Projeto-Urna-Eletronica/
+<!--https://mathspin.github.io/Calculadora-simples_HTML-CSS-Javascript/
+
+https://mathspin.github.io/Projeto-Urna-Eletronica/-->
 
 <!-- animações do final da pág  -->
 <div align="center">

@@ -27,8 +27,8 @@ https://mathspin.github.io/Projeto-Urna-Eletronica/-->
 <!-- animações do final da pág  -->
 <div align="center">
   <a href="https://github.com/mathspin">
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathspin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathspin&layout=compact&langs_count=7&theme=tokyonight"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathspin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathspin&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br> <!-- ícones podem ser encontrados em https://devicon.dev/ -->
   <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">

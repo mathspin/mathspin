@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there, my name is Matheus 😉
-### Mostly studying HTML, CSS and Javascript 💭
 ### 💾😃
 
 
